@@ -98,7 +98,7 @@ function changeSizeCard() {
     document.getElementById("inputHeigth").value = "";
     document.getElementById("inputWidth").value = "";
   }
-  if (inputHeigthInt < 22 || inputWidthInt < 22) {
+  if (inputHeigthInt < 11 || inputWidthInt < 11) {
     swal("Error", "The heigth and width must be over 22", "error");
     setTimeout(function() {
       document.getElementById("inputHeigth").focus();

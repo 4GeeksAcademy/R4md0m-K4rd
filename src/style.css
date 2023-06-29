@@ -204,25 +204,25 @@ span {
 .button:active {
   transform: translateY(7px);
 }
-.button-purple {
-  background: #6d0055;
-  box-shadow: 0 10px 0 #ac0072, 0 11px 5px hsla(0, 0%, 0%, 0.5);
+.button-newcard {
+  background: #52003d;
+  box-shadow: 0 10px 0 #ff7300, 0 11px 5px hsla(0, 0%, 0%, 0.5);
 }
-.button-purple:active {
-  box-shadow: 0 3px 0 #ac0072, 0 4px 6px hsla(0, 0%, 0%, 0.7);
+.button-orange:active {
+  box-shadow: 0 3px 0 #ff7300, 0 4px 6px hsla(0, 0%, 0%, 0.7);
 }
 #formDiv {
   margin-left: 15rem;
   margin-top: 5rem;
   margin-bottom: 5rem;
-  background: #6d0055;
-  box-shadow: 0 10px 0 #ac0072, 0 11px 5px hsla(0, 0%, 0%, 0.5);
+  background: #52003d;
+  box-shadow: 0 10px 0 #ff7300, 0 11px 5px hsla(0, 0%, 0%, 0.5);
 }
 h1 {
-  background: #6d0055;
+  background: #ff7300;
 }
 .col-form-label {
-  background: #ac0072;
+  background: #ff7300;
 }
 .button-small {
   border: none;
@@ -242,10 +242,10 @@ h1 {
 .button-small:active {
   transform: translateY(7px);
 }
-.button-blue {
-  background: #006e72;
-  box-shadow: 0 10px 0 #21005f, 0 11px 5px hsla(0, 0%, 0%, 0.5);
+.button-changesize {
+  background: #8a0060;
+  box-shadow: 0 10px 0 #ff7300, 0 11px 5px hsla(0, 0%, 0%, 0.5);
 }
-.button-blue:active {
-  box-shadow: 0 3px 0 #21005f, 0 4px 6px hsla(0, 0%, 0%, 0.7);
+.button-changes:active {
+  box-shadow: 0 3px 0 #ff1100, 0 4px 6px hsla(0, 0%, 0%, 0.7);
 }
